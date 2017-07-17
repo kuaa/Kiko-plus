@@ -47,9 +47,7 @@ nav:
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
-    url:            "/tags"
-  - name:           "Github"
-    url:            "https://kuaa.github.io"
+    url:            "/tags"  
 
 # Sass
 sass:
