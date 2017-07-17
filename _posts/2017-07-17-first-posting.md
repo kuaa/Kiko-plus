@@ -2,7 +2,7 @@
 layout: post
 title: "첫 포스팅!"
 description: "지킬+깃허브 첫 포스팅입니다."
-date: 2017-07-71
+date: 2017-07-17
 tags: [샘플 포스트, 테스트, 스타일]
 comments: true
 share: false
