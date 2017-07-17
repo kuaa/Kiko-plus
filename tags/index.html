@@ -46,7 +46,7 @@ permalink: /tags/
         {% endif %}  
           <span class="tag-post-title">{{ post.title }}</span>
           <span class="archive-list-post-date">
-            <time>| {{ post.date | date_to_string }}</time>
+            <time>| {{ post.date | date: "%Y-%m-%d" }}</time>
           </span>
         </a>
       </li>
