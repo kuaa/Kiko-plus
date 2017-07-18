@@ -38,6 +38,7 @@ paginate_path:      /page:num/
 markdown:           kramdown
 kramdown:
   input:            GFM
+  hard_wrap:        true
 
 # Navigation
 nav:
