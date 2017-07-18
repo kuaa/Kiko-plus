@@ -1,18 +1,25 @@
 ---
 layout: post
-title: "첫 포스팅!"
-description: "지킬+깃허브 첫 포스팅입니다."
+title: "지킬+깃허브 블로그를 시작하며 도움받은 링크"
+description: "지킬+깃허브 블로그를 시작하며 도움받은 분들에게 감사의 마음을 담아 첫 포스팅으로 남깁니다."
 date: 2017-07-17
-tags: [샘플 포스트, 테스트, 스타일]
+tags: [스크랩]
 comments: true
-share: false
+share: true
 ---
 
-지킬+깃허브 블로그를 만든 기념으로 올리는 첫 글입니다.
+지킬+깃허브 블로그를 시작하며 도움받은 분들에게 감사의 마음을 담아 첫 포스팅으로 남깁니다.
 
 ---
 
-## 제목
-### 지킬
-### 깃허브
-### 좋아요!
+###### 깃 시작하기
+https://rogerdudler.github.io/git-guide/index.ko.html
+
+###### 깃허브 블로그 만들기
+http://recoveryman.tistory.com/321
+
+###### Date formating
+http://alanwsmith.com/jekyll-liquid-date-formatting-examples
+
+###### Published 설정
+http://jekyllrb.com/docs/frontmatter/
