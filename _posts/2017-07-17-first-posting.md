@@ -13,7 +13,11 @@ share: true
 ---
 
 [깃 시작하기](https://rogerdudler.github.io/git-guide/index.ko.html)
+
 [깃허브 블로그 만들기](http://recoveryman.tistory.com/321)
+
 [Date formating](http://alanwsmith.com/jekyll-liquid-date-formatting-examples)
+
 [Published 설정](http://jekyllrb.com/docs/frontmatter/)
+
 [Disqus 코멘트 플랫폼](https://disqus.com/)
