@@ -6,7 +6,6 @@
 name:               "Kuaa"
 
 author:
-  disqus:           kuaa_@naver.com
   email:            kuaa_@naver.com
 
 copyright:
@@ -19,7 +18,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               ""
+  id:               "kuaa3096"
 
 # URL
 url:                "https://kuaa.github.io" # the base hostname & protocol for your site
